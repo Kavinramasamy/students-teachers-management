@@ -1,0 +1,86 @@
+[
+    {
+        "gender": "male",
+        "batch": "B45WD",
+        "qualification": "B.SC(com)",
+        "name": "Mugundhan",
+        "id": "0"
+    },
+    {
+        "gender": "male",
+        "batch": "B45WD",
+        "qualification": "B.CA",
+        "name": "Sarath kumar",
+        "id": "1"
+    },
+    {
+        "gender": "male",
+        "batch": "B45WD",
+        "qualification": "BE mech",
+        "name": "Mohan",
+        "id": "2"
+    },
+    {
+        "gender": "female",
+        "batch": "2020",
+        "qualification": "B.sc(com)",
+        "name": "Renuka",
+        "id": "3"
+    },
+    {
+        "gender": "female",
+        "batch": "2020",
+        "qualification": "B.sc(com)",
+        "name": "Nala priya",
+        "id": "4"
+    },
+    {
+        "gender": "female",
+        "batch": "2020",
+        "qualification": "B.com",
+        "name": "Mythili",
+        "id": "5"
+    },
+    {
+        "gender": "female",
+        "batch": "2022",
+        "qualification": "B.com",
+        "name": "Ramya",
+        "id": "6"
+    },
+    {
+        "gender": "female",
+        "batch": "2022",
+        "qualification": "BE Bio(med)",
+        "name": "Sri vinitha",
+        "id": "7"
+    },
+    {
+        "gender": "Male",
+        "batch": "2008",
+        "qualification": "B.com",
+        "name": "Harish",
+        "id": "8"
+    },
+    {
+        "gender": "male",
+        "batch": "2018",
+        "qualification": "BE civil",
+        "name": "Karthik",
+        "id": "9"
+    },
+    {
+        "gender": "female",
+        "batch": "2022",
+        "qualification": "BE ECE",
+        "name": "Aarthi",
+        "id": "10"
+    },
+    {
+        "gender": "female",
+        "batch": "2022",
+        "qualification": "BE ECE",
+        "name": "Deepika",
+        "id": "11"
+    }
+]
